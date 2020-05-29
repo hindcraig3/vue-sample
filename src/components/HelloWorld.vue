@@ -6,7 +6,7 @@
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <h3>Craigs forst Vue js app</h3>
+    <h3>Craigs first Vue js app</h3>
   </div>
 </template>
 
